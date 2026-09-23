@@ -78,6 +78,10 @@
   <value name="system_service">no</value>
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="modifiedBy">Administrator</value>
+    <value name="lastModifiedDate">2026-09-23T15:00:04.442589644Z</value>
+  </record>
   <value name="svc_in_validator_options">none</value>
   <value name="svc_out_validator_options">none</value>
   <value name="auditoption">0</value>
@@ -117,5 +121,5 @@
   <value name="pipeline_option">1</value>
   <null name="originURI"/>
   <value name="modifiable">true</value>
-  <value name="is_public">false</value>
+  <value name="is_public">true</value>
 </Values>
